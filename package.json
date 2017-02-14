@@ -1,0 +1,25 @@
+{
+  "name": "express-handlebars-sample",
+  "version": "1.0.0",
+  "description": "Sample project that use Express Handlebars and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aluzed/express-handlebars-sample.git"
+  },
+  "author": "Aluzed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aluzed/express-handlebars-sample/issues"
+  },
+  "homepage": "https://github.com/aluzed/express-handlebars-sample#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "handlebars-helpers": "^0.8.0"
+  }
+}
